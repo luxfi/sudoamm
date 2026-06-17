@@ -1,1 +1,6 @@
-CLAUDE.md
+# sudoamm
+
+**Org:** luxfi  ·  **Path:** `/Users/a/work/lux/luxfi/sudoamm`
+**Origin:** git@github.com:luxfi/sudoamm.git
+
+`CLAUDE.md` is canonical; `LLM.md` symlinks to it. See sibling repos at `/Users/a/work/lux/luxfi/LLM.md`.
